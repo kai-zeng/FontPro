@@ -181,7 +181,7 @@ Under Windows with MikTeX, do the following:
         $ ./scripts/install /cygdrive/c/path/to/Miktex
 
    where `c/path/to/Miktex` is the path to the Miktex installation
-   tree of choice.
+   tree of choice, usually under Users/[user name]/AppData/Roaming/Miktex/[version]/.
 
 2. In the Windows prompt, issue
 
